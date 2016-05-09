@@ -17,7 +17,7 @@ router.post('/register', function (req, res, next) {
         if (err) {
             return res.render('register', {error: err.message});
         }
-        //todo  security middleware 
+        //todo security middleware
         passport.authenticate('local')(req, res, function () {
             req.session.save(function (err) {
                 if (err) {
