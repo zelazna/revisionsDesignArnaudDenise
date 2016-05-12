@@ -1,4 +1,4 @@
-# PROJET JS
+# Design avec Arnaud Denise
 
 ## Installation##
 
