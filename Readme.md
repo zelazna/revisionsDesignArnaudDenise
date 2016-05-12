@@ -1,4 +1,4 @@
-# Design avec Arnaud Denise
+# PROJET JS
 
 ## Installation##
 
@@ -11,9 +11,13 @@
 ## Liste des dépendances ##
 
 1. Express (framework)
-2. npm / nodeJS
+2. npm / NodeJS
 3. mongoDB (DataBase)
-4. Passport (auth)
+4. Passport (auth / session)
 5. mongoose (ORM)
-6. express-session
+
+## Run des Test Unitaires ( a completer ) ##
+
+$ make test
+
 
