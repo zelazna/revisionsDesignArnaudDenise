@@ -11,10 +11,9 @@
 ## Liste des dépendances ##
 
 1. Express (framework)
-2. npm 
+2. npm / nodeJS
 3. mongoDB (DataBase)
-4. nodeJS (serv v5.7.1)
-5. Passport (auth)
-6. mongoose (ORM)
-7. express-session
+4. Passport (auth)
+5. mongoose (ORM)
+6. express-session
 
