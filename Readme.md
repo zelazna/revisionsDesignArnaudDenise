@@ -3,10 +3,10 @@
 ## Installation##
 
 1. Installer et Run [MongoDB](https://docs.mongodb.com/)
-2. $ cd revisionsDesignArnaudDenise
-3. $ npm install
-4. $ npm start
-5. :v: Good to Go !
+2. ```$ cd revisionsDesignArnaudDenise```
+3. ```$ npm install``
+4.``` $ npm start```
+:v: Good to Go !
 
 ## Liste des dépendances ##
 
