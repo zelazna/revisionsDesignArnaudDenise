@@ -6,7 +6,7 @@
 2. $ cd revisionsDesignArnaudDenise
 3. $ npm install
 4. $ npm start
-5. Good to Go !
+5. :v: Good to Go !
 
 ## Liste des dépendances ##
 
