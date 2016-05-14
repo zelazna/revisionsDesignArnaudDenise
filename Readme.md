@@ -4,7 +4,7 @@
 
 1. Installer et Run [MongoDB](https://docs.mongodb.com/)
 2. ```$ cd revisionsDesignArnaudDenise```
-3. ```$ npm install``
+3. ```$ npm install```
 4.``` $ npm start```
 :v: Good to Go !
 
